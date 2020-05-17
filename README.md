@@ -1,4 +1,4 @@
-# Edit-Tool
+# Edit-Termux
 Customize Your Termux
 
 
@@ -14,19 +14,19 @@ $ apt-get upgrade -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/noob-hackers/T-LOAD
+$ git clone 
 ```
 ```
 $ ls
 ```
 ```
-$ cd T-LOAD
+$ cd Edit-Termux
 ```
 ```
 $ ls
 ```
 ```
-$ bash t-load.sh
+$ bash edit-termux.sh
 ```
 ```
 * Now make sue that you internet connection is on and after that the installation starts automatically
@@ -47,7 +47,7 @@ Note:- Don't delete any of the audio files from your sdcard/internal storage or 
 To revert/to get back into normal termux mode use this commands
 ```
 ```
-cd T-LOAD
+cd edit-termux
 ```
 ls
 ```
